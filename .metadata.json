@@ -2,8 +2,5 @@
   {
     "package": "mazing",
     "oncran": true
-  },
-  {
-    "package": "slingshot"
   }
 ]
