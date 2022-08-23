@@ -8,6 +8,11 @@
 	url = https://github.com/kstreet13/mazing
 	shallow = true
 	registered = true
+[submodule "scry"]
+	path = scry
+	url = https://github.com/kstreet13/scry
+	shallow = true
+	registered = true
 [submodule "slingshot"]
 	path = slingshot
 	url = https://github.com/kstreet13/slingshot
