@@ -18,3 +18,8 @@
 	url = https://github.com/kstreet13/slingshot
 	shallow = true
 	registered = true
+[submodule "VDJdive"]
+	path = VDJdive
+	url = https://github.com/kstreet13/vdjdive
+	shallow = true
+	registered = true
