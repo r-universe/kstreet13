@@ -8,8 +8,8 @@
 	url = https://github.com/kstreet13/mazing
 	shallow = true
 	registered = true
-[submodule "scry"]
-	path = scry
-	url = https://github.com/kstreet13/scry
+[submodule "VDJdive"]
+	path = VDJdive
+	url = https://github.com/kstreet13/vdjdive
 	shallow = true
 	registered = true
