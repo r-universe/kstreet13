@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "mazing"]
-	path = mazing
-	url = https://github.com/kstreet13/mazing
-	shallow = true
-	registered = true
 [submodule "VDJdive"]
 	path = VDJdive
 	url = https://github.com/kstreet13/vdjdive

@@ -1,9 +1,5 @@
 [
   {
-    "package": "mazing",
-    "oncran": true
-  },
-  {
     "package": "VDJdive"
   }
 ]
