@@ -1,5 +1,15 @@
 [
   {
+    "package": "mazing",
+    "oncran": true
+  },
+  {
+    "package": "scry"
+  },
+  {
+    "package": "slingshot"
+  },
+  {
     "package": "VDJdive"
   }
 ]
