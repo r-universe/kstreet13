@@ -2,15 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "VDJdive"]
-	path = VDJdive
-	url = https://github.com/kstreet13/vdjdive
 [submodule "mazing"]
 	path = mazing
 	url = https://github.com/kstreet13/mazing
-[submodule "scry"]
-	path = scry
-	url = https://github.com/kstreet13/scry
-[submodule "slingshot"]
-	path = slingshot
-	url = https://github.com/kstreet13/slingshot
